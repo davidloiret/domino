@@ -8,6 +8,12 @@ In contrast to the original [dom.js](https://github.com/andreasgal/dom.js) proje
 
 Domino currently doesn't use any harmony features like proxies or WeakMaps and therefore also runs in older Node versions.
 
+### This is fork !!
+
+This is fork of original domino implementation. 
+There is a [pull request](https://github.com/fgnass/domino/pull/96) for support of custom elements in original repository but it is hung.
+That is why this repository is released under own name.
+
 ## Speed over Compliance
 
 Domino is intended for _building_ pages rather than scraping them. Hence Domino doesn't execute scripts nor does it download external resources.

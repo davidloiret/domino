@@ -1,13 +1,13 @@
 {
-  "name": "domino",
-  "version": "1.0.28+git",
-  "author": "Felix Gnass <fgnass@gmail.com>",
-  "description": "Server-side DOM implementation based on Mozilla's dom.js",
-  "homepage": "https://github.com/fgnass/domino",
+  "name": "domino-custom-elements",
+  "version": "1.1.0",
+  "author": "Paweł Majewski <majo44@gmail.com>",
+  "description": "Server-side DOM implementation based on Mozilla's dom.js, with support of custom-elements",
+  "homepage": "https://github.com/majo44/domino",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fgnass/domino.git"
+    "url": "https://github.com/majo44/domino.git"
   },
   "scripts": {
     "lint": "jshint lib test/*.js",
