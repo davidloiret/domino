@@ -1,6 +1,6 @@
 {
   "name": "domino-custom-elements",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Paweł Majewski <majo44@gmail.com>",
   "description": "Server-side DOM implementation based on Mozilla's dom.js, with support of custom-elements",
   "homepage": "https://github.com/majo44/domino",
