@@ -1,5 +1,11 @@
 # domino x.x.x (not yet released)
 
+# domino 1.0.29 ( 7 Aug 2017)
+* Fix "#id" optimization in querySelectorAll() when 0 or 2 matches for
+  `id`. (#99)
+* Correct return value of CSSStyleDeclaration#getPropertyValue() when
+  style is not set. (#98)
+
 # domino 1.0.28 (27 Jan 2017)
 * Fix unescape mechanism in attribute values. (#95)
 * Disable nonstandard "ignore case" version of attribute matching.
